@@ -2,10 +2,6 @@
 
 ---
 
-![Profile Image](./assets/sazzad.jpeg)
-
----
-
 ## About Me
 
 I'm currently pursuing my degree in **Software Engineering** at **Shahjalal University of Science and Technology (SUST)**. I'm passionate about software development and always eager to learn and explore new technologies.
