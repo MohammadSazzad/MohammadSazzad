@@ -22,15 +22,15 @@ I'm currently pursuing my degree in **Software Engineering** at **Shahjalal Univ
 
 ## Projects
 
-### [Project 1](https://github.com/MohammadSazzad/Profile-based-Task-Manager-CRUD-app)
+### [To Do App(Backend)](https://github.com/MohammadSazzad/Profile-based-Task-Manager-CRUD-app)
 Working on REST API with Authorization and Authentication
 
 ---
 
 ## Contact Me
 
-- Email: [sazzad19@student.sust.edu](mailto:sazzad19@student.sust.edu)
-- [Facebook](https://www.facebook.com/Nm.sazzad.370)
+- Email: [Email](mailto:sazzad19@student.sust.edu)
+- Facebook: [Facebook](https://www.facebook.com/Nm.sazzad.370)
 
 Feel free to reach out if you'd like to collaborate on a project or just chat about tech!
 
