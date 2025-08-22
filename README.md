@@ -9,9 +9,9 @@
 > *Software Engineering student focused on modern web applications, clean architecture, and elegant UX.*
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL"><img alt="Website" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/></a>
+  <a href="https://mohammadsazzad.github.io/PortfolioJS/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/></a>
   <a href="mailto:sazzad19@student.sust.edu"><img alt="Email" src="https://img.shields.io/badge/Email-sazzad19@student.sust.edu-lightgrey?style=for-the-badge"/></a>
-  <a href="YOUR_CV_LINK"><img alt="CV" src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge"/></a>
+  <a href="/assets/Sazzad_2020831019.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge"/></a>
 </p>
 
 ---
@@ -40,78 +40,10 @@
 
 ---
 
-## 🏆 Selected Projects
-
-> *A curated list of production-minded projects. Add screenshots to `/assets` and reference them to look even more polished.*
-
-### 🔹 Profile-based Task Manager (Backend)
-
-* **What:** RESTful API for tasks with JWT-based auth and per-user isolation.
-* **Tech:** Node.js, Express, MongoDB, JWT
-* **Repo:** [https://github.com/MohammadSazzad/Profile-based-Task-Manager-CRUD-app](https://github.com/MohammadSazzad/Profile-based-Task-Manager-CRUD-app)
-
-### 🔹 Social Sphere (Team Project)
-
-* **What:** Social platform with email verification, post CRUD, and responsive UI.
-* **Tech:** React, Node.js, Azure, SendGrid
-* **Live:** YOUR\_LIVE\_LINK — **Repo:** YOUR\_REPO\_LINK
-
-> Use the card template below to keep every project consistent and professional.
-
-```md
-### Project Name — Short Tagline
-
-**Description:** A single paragraph (1–2 sentences) explaining the value.
-**Tech:** React · Node.js · MongoDB · JWT
-**Live:** https://...
-**Repo:** https://github.com/...
-**Highlights:** Bullet points with achievements (e.g., authentication, performance gains, tests)
-```
-
----
-
-## ⚙️ How to run (standard)
-
-```bash
-# clone
-git clone https://github.com/YOUR_GITHUB_USERNAME/REPO_NAME.git
-cd REPO_NAME
-
-# install
-npm install
-
-# create .env (from .env.example) and add MONGO_URI & JWT_SECRET
-
-# run
-npm run dev
-```
-
-**Pro tip:** Add a `Dockerfile` or `docker-compose.yml` for reproducible deployments and easier CI.
-
----
-
-## 📈 GitHub Profile Extras (add these for a premium look)
-
-* GitHub Stats card (replace `YOUR_GITHUB_USERNAME`):
-
-```
-[![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)](https://github.com/YOUR_GITHUB_USERNAME)
-```
-
-* Top languages card:
-
-```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME)
-```
-
----
-
 ## 📎 CV & Contact
 
 * **Email:** [sazzad19@student.sust.edu](mailto:sazzad19@student.sust.edu)
-* **Portfolio:** YOUR\_PORTFOLIO\_URL
-* **LinkedIn:** YOUR\_LINKEDIN\_URL
-* **Download CV:** YOUR\_CV\_LINK
+* **Portfolio:** https://mohammadsazzad.github.io/PortfolioJS/
+* **LinkedIn:** https://www.linkedin.com/in/mohammadsazzadswe/
+* **Download CV:** /assets/Sazzad_2020831019.pdf
 
-
-*Last updated: August 23, 2025*
