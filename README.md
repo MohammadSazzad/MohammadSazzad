@@ -43,9 +43,9 @@
 ## 🚀 Live Projects
 
 ### Social Sphere
-**Description:** Social media web app (auth, posts, responsive UI, Prohibiting adult and racy content and image ).  
-**Tech:** React · Node.js · Express · PostgreSQL(Supabase) · SendGrid · Cloudinary · Azure  
-[🌐 Live ](https://victorious-flower-0a9eee30f.1.azurestaticapps.net/) · [💻 Source](https://github.com/MohammadSazzad/Social_Sphere)
+* **Description:** Social media web app (auth, posts, responsive UI, Prohibiting adult and racy content and image ).  
+* **Tech:** React · Node.js · Express · PostgreSQL(Supabase) · SendGrid · Cloudinary · Azure  
+* [🌐 Live ](https://victorious-flower-0a9eee30f.1.azurestaticapps.net/) · [💻 Source](https://github.com/MohammadSazzad/Social_Sphere)
 
 ---
 
