@@ -1,9 +1,5 @@
 <!--- Fancy / Classy GitHub Profile README Template for Mohammad Sazzad -->
 
-<p align="center">
-  <img src="/assets/Banner.png" alt="banner" width="100%"/>
-</p>
-
 # 👋 Hi — I'm Mohammad Sazzad
 
 > *Software Engineering student focused on modern web applications, clean architecture, and elegant UX.*
