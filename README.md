@@ -1,7 +1,7 @@
 <!--- Fancy / Classy GitHub Profile README Template for Mohammad Sazzad -->
 
 <p align="center">
-  <img src="https://via.placeholder.com/980x220.png?text=Mohammad+Sazzad+-+Software+Engineer+%7C+SUST" alt="banner" width="100%"/>
+  <img src="/assets/Banner.jpg" alt="banner" width="100%"/>
 </p>
 
 # 👋 Hi — I'm Mohammad Sazzad
