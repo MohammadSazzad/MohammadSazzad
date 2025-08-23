@@ -42,16 +42,18 @@
 
 ## 🚀 Live Projects
 
-### Project 1 — Social Sphere
-**Short:** Social media web app (auth, posts, responsive UI, Prohibiting adult and racy content and image ).  
+### Social Sphere
+**Description:** Social media web app (auth, posts, responsive UI, Prohibiting adult and racy content and image ).  
 **Tech:** React · Node.js · Express · PostgreSQL(Supabase) · SendGrid · Cloudinary · Azure  
 [🌐 Live ](https://victorious-flower-0a9eee30f.1.azurestaticapps.net/) · [💻 Source](https://github.com/MohammadSazzad/Social_Sphere)
 
 ---
 
-### Project 2 — Finance App
-**Short:** Book store / hero section with stationery products.  
+### Finance App
+**Description:** A Modern Personal Finance Management System!
 **Tech:** C# · ASP.NET · Razor Page · PostgreSQL(Supabase) · Microsoft Entity Framework · Azure
+---
+
 [🌐 Live ](https://financeapp-dgg4d2b4b0epehfs.canadacentral-01.azurewebsites.net/) · [💻 Source](https://github.com/MohammadSazzad/FinananceApp)
 
 ---
