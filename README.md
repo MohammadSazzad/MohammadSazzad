@@ -27,6 +27,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react"/>
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js"/>
   <img alt="Express" src="https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express"/>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python"/>
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-003B57?style=flat-square&logo=mysql"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql"/>
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
