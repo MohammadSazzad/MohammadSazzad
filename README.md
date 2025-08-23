@@ -50,11 +50,9 @@
 ---
 
 ### Finance App
-**Description:** A Modern Personal Finance Management System!
-**Tech:** C# · ASP.NET · Razor Page · PostgreSQL(Supabase) · Microsoft Entity Framework · Azure
----
-
-[🌐 Live ](https://financeapp-dgg4d2b4b0epehfs.canadacentral-01.azurewebsites.net/) · [💻 Source](https://github.com/MohammadSazzad/FinananceApp)
+* **Description:** A Modern Personal Finance Management System!
+* **Tech:** C# · ASP.NET · Razor Page · PostgreSQL(Supabase) · Microsoft Entity Framework · Azure
+* [🌐 Live ](https://financeapp-dgg4d2b4b0epehfs.canadacentral-01.azurewebsites.net/) · [💻 Source](https://github.com/MohammadSazzad/FinananceApp)
 
 ---
 
