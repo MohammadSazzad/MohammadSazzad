@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://mohammadsazzad.github.io/PortfolioJS/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/></a>
   <a href="mailto:sazzad19@student.sust.edu"><img alt="Email" src="https://img.shields.io/badge/Email-sazzad19@student.sust.edu-lightgrey?style=for-the-badge"/></a>
-  <a href="assets/Sazzad_2020831019.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge"/></a>
+  <a href="Resume_Sazzad.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-Download-green?style=for-the-badge"/></a>
 </p>
 
 ---
