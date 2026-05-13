@@ -12,7 +12,7 @@
 
 ## ✨ Quick Summary
 
-* 🎓 **B.Sc. Software Engineering** — Shahjalal University of Science and Technology (SUST) ----- CGPA: 3.55
+* 🎓 **B.Sc in Software Engineering** — Shahjalal University of Science and Technology (SUST) ----- CGPA: 3.55
 * 📍 Sylhet, Bangladesh
 * 💻 Passionate about building production-ready web application with security and maintainability in mind
 
