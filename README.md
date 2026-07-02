@@ -61,4 +61,4 @@
 * **Email:** [sazzad19@student.sust.edu](mailto:sazzad19@student.sust.edu)
 * **Portfolio:** https://mohammadsazzad.github.io/PortfolioJS/
 * **LinkedIn:** https://www.linkedin.com/in/mohammadsazzadswe/
-* **Download CV:** [Resume](assets/Resume_Sazzad.pdf)
+* **Download CV:** [Resume](Resume_Sazzad.pdf)
